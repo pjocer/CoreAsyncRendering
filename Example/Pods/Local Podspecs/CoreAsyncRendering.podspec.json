@@ -1,0 +1,23 @@
+{
+  "name": "CoreAsyncRendering",
+  "version": "0.1.0",
+  "summary": "A short description of CoreAsyncRendering.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/pjocer/CoreAsyncRendering",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "pjocer": "ghji@i9i8.com"
+  },
+  "source": {
+    "git": "https://github.com/pjocer/CoreAsyncRendering.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CoreAsyncRendering/Classes/**/*",
+  "public_header_files": "CoreAsyncRendering/Classes/**/*.h"
+}

@@ -1,0 +1,16 @@
+PODS:
+  - CoreAsyncRendering (0.1.0)
+
+DEPENDENCIES:
+  - CoreAsyncRendering (from `../`)
+
+EXTERNAL SOURCES:
+  CoreAsyncRendering:
+    :path: ../
+
+SPEC CHECKSUMS:
+  CoreAsyncRendering: 1eb946f3902728367762b0f263e33abd7c98b424
+
+PODFILE CHECKSUM: b79c1e43ec33b89e84f3640203830b2e198d4af0
+
+COCOAPODS: 1.4.0

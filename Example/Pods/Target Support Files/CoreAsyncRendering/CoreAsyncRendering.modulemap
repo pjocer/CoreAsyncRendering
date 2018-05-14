@@ -1,0 +1,6 @@
+framework module CoreAsyncRendering {
+  umbrella header "CoreAsyncRendering-umbrella.h"
+
+  export *
+  module * { export * }
+}
