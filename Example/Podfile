@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'CoreAsyncRendering_Example' do
+  pod 'CoreAsyncRendering', :path => '../'
+
+  target 'CoreAsyncRendering_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
